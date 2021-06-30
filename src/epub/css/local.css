@@ -4,3 +4,8 @@
 [epub|type~="se:temperature"]{
 	font-variant: all-small-caps;
 }
+
+
+header.titles {
+	margin-top: 1em;
+}
