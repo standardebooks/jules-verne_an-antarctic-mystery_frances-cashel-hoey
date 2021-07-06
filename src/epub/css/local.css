@@ -4,3 +4,13 @@
 [epub|type~="se:temperature"]{
 	font-variant: all-small-caps;
 }
+
+.book-title p,
+blockquote p{
+	text-indent: 0;
+}
+
+.book-title{
+	text-align: center;
+	font-variant: small-caps;
+}
