@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jules-verne/an-antarctic-mystery</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jules-verne/an-antarctic-mystery/f-c-hoey</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
@@ -30,39 +30,53 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">An Antarctic Mystery</dc:title>
 		<meta property="file-as" refines="#title">Antarctic Mystery, An</meta>
-		<dc:subject id="subject-1">Antarctica -- Discovery and exploration -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Antarctica</dc:subject>
+		<dc:subject id="subject-2">Discovery and exploration</dc:subject>
+		<dc:subject id="subject-3">Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-1">sh85005490</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh99002238</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85048050</meta>
+		<meta property="se:subject">Adventure</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">An American naturalist travels south beyond the remote Kerguelen Islands</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+		<p><i>An Antarctic Mystery</i> follows <abbr>Mr</abbr> Jeorling, a naturalist whose research has led him to the remote Kerguelen Islands, located in the southern Indian Ocean. Joerling boards the <i>Halbrane</i> after being admitted aboard by the reluctant captain Len Guy, the captain believes the events in <a href="https://standardebooks.org/ebooks/edgar-allan-poe/the-narrative-of-arthur-gordon-pym-of-nantucket"><i>The Narrative of Arthur Gordon Pym</i></a> by <a href="https://standardebooks.org/ebooks/edgar-allan-poe">Edgar Allen Poe<a> to be true. In the novel, Pym persuades Len Guys brother, William Guy to lead a voyage to the Antarctic, the expedition is a failure however and William Guy as well as his crew and ship, the <i>Jane</i> are lost.</p>
+		<p>Despite <a href="https://standardebooks.org/ebooks/jules-verne">Jules Verne’s<a> response to Poe’s work was published over fifty years after it’s inspiration, the events take place only one year after disapearance of the <i>Jane</i>. Captain Len Guy convinces Jeorling to aid in the search for his brother and the two lead a further expedition south to the Antarctic in search any of the previous voyage’s survivors.</p>
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10339</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<dc:source>https://catalog.hathitrust.org/Record/000023899</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/An_Antarctic_Mystery</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_an-antarctic-mystery</meta>
 		<dc:creator id="author">Jules Verne</dc:creator>
 		<meta property="file-as" refines="#author">Verne, Jules</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Jules Gabriel Verne</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jules_Verne</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79064013</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="translator">Frances Cashel Hoey</dc:contributor>
+		<meta property="file-as" refines="#translator">Hoey, Frances Cashel</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">https://id.loc.gov/authorities/names/n82250575</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
+		<dc:contributor id="artist">William Bradford</dc:contributor>
+		<meta property="file-as" refines="#artist">Bradford, William</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/William_Bradford_(painter)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n86839616</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">Norman Wolcott. Text versions by Al Haines</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<dc:contributor id="transcriber-1">Norman Wolcott</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Wolcott, Norman</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Al Haines</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Haines, Al</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Samuel Laws</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Laws, Samuel</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/samlaws</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
