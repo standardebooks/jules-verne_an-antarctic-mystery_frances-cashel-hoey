@@ -5,12 +5,18 @@
 	font-variant: all-small-caps;
 }
 
-.book-title p,
-blockquote p{
+#chapter-5 blockquote,
+#chapter-7 blockquote{
+	text-align: center;
+	font-variant: small-caps;
+}
+
+#chapter-5 blockquote p,
+#chapter-7 blockquote p,
+#chapter-15 blockquote p{
 	text-indent: 0;
 }
 
-.book-title{
+#chapter-15 blockquote{
 	text-align: center;
-	font-variant: small-caps;
 }
