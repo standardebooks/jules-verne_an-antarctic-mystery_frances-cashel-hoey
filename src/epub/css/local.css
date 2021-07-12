@@ -5,18 +5,14 @@
 	font-variant: all-small-caps;
 }
 
-#chapter-5 blockquote,
-#chapter-7 blockquote{
-	text-align: center;
-	font-variant: small-caps;
-}
-
 #chapter-5 blockquote p,
 #chapter-7 blockquote p,
 #chapter-15 blockquote p{
+	text-align: center;
 	text-indent: 0;
 }
 
-#chapter-15 blockquote{
-	text-align: center;
+#chapter-5 blockquote,
+#chapter-7 blockquote{
+	font-variant: small-caps;
 }
