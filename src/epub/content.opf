@@ -41,9 +41,9 @@
 		<meta property="term" refines="#subject-3">sh85048050</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
-		<meta id="collection" property="belongs-to-collection">Voyages Extraordinaires</meta>
-		<meta property="collection-type" refines="#collection">series</meta>
-		<meta property="group-position" refines="#collection">44</meta>
+		<meta id="collection-1" property="belongs-to-collection">Voyages Extraordinaires</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">44</meta>
 		<dc:description id="description">An American naturalist travels south beyond the remote Kerguelen Islands.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;An Antarctic Mystery&lt;/i&gt; follows Mr. Jeorling, a wealthy American naturalist whose research has led him to the remote Kerguelen Islands, located in the southern Indian Ocean. Jeorling begins his adventure on the &lt;i&gt;Halbrane&lt;/i&gt; after being admitted aboard by the reluctant captain Len Guy, who believes the events in &lt;a href="https://standardebooks.org/ebooks/edgar-allan-poe/the-narrative-of-arthur-gordon-pym-of-nantucket"&gt;&lt;i&gt;The Narrative of Arthur Gordon Pym&lt;/i&gt;&lt;/a&gt; to be true. In that novel, Pym persuades Len Guy’s brother, William Guy, to lead a voyage to the Antarctic. But the expedition ends in failure when William Guy, his crew, and his ship, the &lt;i&gt;Jane&lt;/i&gt;, disappear under mysterious circumstances. Captain Len Guy convinces Jeorling to aid in the search for his brother, and the two embark on an expedition south to the Antarctic in search of the previous voyage’s survivors.&lt;/p&gt;
