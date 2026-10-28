@@ -52,7 +52,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10339</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000023899</dc:source>
-		<meta property="schema:wordCount">79345</meta>
+		<meta property="schema:wordCount">79346</meta>
 		<meta property="schema:educationalLevel">69.41</meta>
 		<link href="https://en.wikipedia.org/wiki/An_Antarctic_Mystery" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
