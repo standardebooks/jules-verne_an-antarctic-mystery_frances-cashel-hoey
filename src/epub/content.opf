@@ -67,6 +67,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Frances Cashel Hoey</dc:contributor>
 		<meta property="file-as" refines="#translator">Hoey, Frances Cashel</meta>
+		<link href="https://en.wikipedia.org/wiki/Frances_Cashel_Hoey" refines="#translator" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n82250575.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">William Bradford</dc:contributor>
